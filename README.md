@@ -16,7 +16,7 @@ The primary aim of this project is to evaluate whether integrating frequency-dom
 
 To run this project in Google Colab, access the notebook using the link below:
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1wVBg6Yur82Wul8R7HsNVsnjG3V63poOh?usp=sharing))
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wVBg6Yur82Wul8R7HsNVsnjG3V63poOh?usp=sharing)
 
 
 ## Results
